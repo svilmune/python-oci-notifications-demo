@@ -11,6 +11,7 @@ You need to modify following variables:
 # Usage
 
 Run python atp.py 0 to stop your ATP database
+
 Run python atp.py 1 to scale your ATP database to use one (1) CPU
 
 # To be added
